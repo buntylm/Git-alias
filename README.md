@@ -28,3 +28,4 @@
 | grba | `git rebase --abort` abort the rebase progress |
 | grbc | `git rebase --continue` continue the rebase progress |
 | gst | `git status` list the current changes |
+| gstaa | `git stash apply` apply the latest stash to current branch |
